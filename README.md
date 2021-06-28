@@ -4,4 +4,6 @@ zeroDAO is a protocol that utilizes short term loans to enable near-instant usag
 
 [click here to view ZeroDao explainer powerpoint presentation](https://github.com/Developer-piyush/ZeroDao/blob/main/0cf_Zerodao.pptx) <br>
 [click here to view ZeroDao explainer pdf](https://github.com/Developer-piyush/ZeroDao/blob/main/0cf_ZeroDao.pdf)
+<embed src="https://github.com/Developer-piyush/ZeroDao/blob/main/0cf_ZeroDao.pdf" width="500" height="375" 
+ type="application/pdf">
 
